@@ -18,8 +18,8 @@ Brainfuck is an interesting programming language as its entirity is consisted of
 Whenever a program is run to the interpreter, all of the values in the slots are set back to 0. Any character that is not one of the aformentioned is ignored by the interpreter.
 
 What Each File Is:
-README.md | Classic Readme file
-Hello, World Program.txt | File for TODO LIST steps 1-2, the contents of which will be used as a test on every step of the TODO LIST 
+- README.md | Classic Readme file
+- Hello, World Program.txt | File for TODO LIST steps 1-2, the contents of which will be used as a test on every step of the TODO LIST 
                            to make sure that that step is done
 
 TODO LIST:
